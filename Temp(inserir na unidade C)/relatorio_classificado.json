@@ -1,0 +1,42 @@
+{
+  "pagina1.txt": {
+    "classificacoes": []
+  },
+  "pagina2.txt": {
+    "classificacoes": []
+  },
+  "pagina3.txt": {
+    "classificacoes": []
+  },
+  "pagina4.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      }
+    ]
+  },
+  "pagina5.txt": {
+    "classificacoes": []
+  },
+  "pagina6.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      }
+    ]
+  },
+  "pagina7.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+TÍTULO: ⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More
+
+CORPO DA NOTÍCIA:
+If this had been a security drill, someone would've said it went too far. But it wasn't a drill—it was real. The access? Everything looked normal. The tools? Easy to find. The detection? Came too late.
+
+This is how attacks happen now—quiet, convincing, and fast. Defenders aren't just chasing hackers anymore—they're struggling to trust what their systems are telling them.
+
+The problem isn't too few alerts. It's too many, with no clear meaning. One thing is clear: if your defense still waits for obvious signs, you're not protecting anything. You're just watching it happen.
+
+This recap highlights the moments that mattered—and why they're worth your attention.
+
+APT41 Exploits Google Calendar for Command-and-Control— The Chinese state-sponsored threat actor known as APT41 deployed a malware called TOUGHPROGRESS that uses Google Calendar for command-and-control (C2). Google said it observed the spear-phishing attacks in October 2024 and that the malware was hosted on an unspecified compromised government website. TOUGHPROGRESS is designed to read and write events with an attacker-controlled Google Calendar, and extract the commands specified in them for subsequent execution. The results of the execution are written back to another Calendar event from where they can be accessed by the attackers. The campaign targeted multiple other government entities, although the company did not name the organizations that were singled out.
+
+With a Zero Trust Everywhere security approach, organizations free themselves from firewalls and other network-centric appliances. They unify security and policy across all users, all locations, and all devices, drastically reducing cost and complexity.
+
+Attackers love software vulnerabilities – they're easy doors into your systems. Every week brings fresh flaws, and waiting too long to patch can turn a minor oversight into a major breach. Below are this week's critical vulnerabilities you need to know about. Take a look, update your software promptly, and keep attackers locked out.
+
+This week's list includes —CVE-2025-3935(ConnectWise ScreenConnect),CVE-2025-47577(TI WooCommerce Wishlist plugin),CVE-2025-2760,CVE-2025-2761(GIMP),CVE-2025-0072(Arm Mali GPU),CVE-2025-27462, CVE-2025-27463, CVE-2025-27464(Citrix XenServer VM Tools for Windows),CVE-2025-4793(PHPGurukul Online Course Registration),CVE-2025-47933(Argo CD),CVE-2025-46701(Apache Tomcat CGI servlet),CVE-2025-48057(Icinga 2),CVE-2025-48827,CVE-2025-48828(vBulletin),CVE-2025-41438, CVE-2025-46352(Consilium Safety CS5000 Fire Panel),CVE-2025-1907(Instantel Micromate),CVE-2025-26383(Johnson Controls iSTAR Configuration Utility),CVE-2018-1285(Rockwell Automation FactoryTalk Historian ThingWorx),CVE-2025-26147(Denodo Scheduler),CVE-2025-24916, and CVE-2025-24917(Tenable Network Monitor).
+
+Use AI Models to Challenge Your Security Assumptions →AI tools like OpenAI's o3 aren't just for writing code—they can now help spot serious bugs, including vulnerabilities that even experts may miss. In one real case, o3 helped uncover a hidden flaw in Linux's kernel code by analyzing how different threads could access the same object at the wrong time—something that's easy to overlook.
+
+How to apply this: When reviewing code or systems, try giving an AI model a specific function, some background about how it's used, and ask it questions like:
+
+Why it works: Even experienced security teams make assumptions—about timing, logic, or structure—that attackers won't. AI doesn't assume. It explores every path, including the unlikely ones where real threats hide.
+
+Use AI to think differently, and you may catch weak spots before someone else does.
+
+The tools may keep changing, but the core challenge remains: knowing what to act on, and when. As new threats emerge and familiar ones resurface in unexpected ways, clarity becomes your sharpest defense.
+
+Use these insights to question assumptions, update plans, and strengthen the weak spots that don't always show up on dashboards. Good security isn't just about staying ahead—it's about staying sharp.
+
+Discover real-time defense tactics to detect and block deepfakes, fake domains, and multi-channel scams before they cause damage.
+
+We'll unpack how leading teams are using AI, privacy-first design, and seamless logins to earn user trust and stay ahead in 2025.
+
+Get the latest news, expert insights, exclusive resources, and strategies from industry leaders – all for free.

@@ -1,0 +1,2 @@
+Third-Party Vendors,U.S.,The New Cyber Risks Facing Supply Chains,third,first,2024,Change Healthcare,one,up to 6,millions,PHI,MFA,ICS,ERP,Healthcare & Pharmaceuticals,Healthcare,10s,100s,2020,COVID-19,Retail & E-Commerce,Energy & Critical Infrastructure
+,March 2025,Ukraine,Ukrzaliznytsia,Banking & Financial Services,EU,CMA,UK,Attack Surface Management,ASM,NIST,Cybersecurity Framework,ISO 27001,AI,2025

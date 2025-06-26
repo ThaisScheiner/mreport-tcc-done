@@ -1,0 +1,690 @@
+{
+  "pagina1.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina10.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "spyware",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ads",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "dropper",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "adware",
+        "categoria": "Adware"
+      }
+    ]
+  },
+  "pagina11.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      }
+    ]
+  },
+  "pagina12.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "dropper",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina13.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "stealth",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina14.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina15.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "spyware",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "crypto",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina16.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina17.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "lockbit",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "encryptor",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "stealth",
+        "categoria": "Rootkit"
+      }
+    ]
+  },
+  "pagina18.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina19.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina2.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "dropper",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      }
+    ]
+  },
+  "pagina20.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "spyware",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  },
+  "pagina21.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "builder",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "stealth",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      }
+    ]
+  },
+  "pagina3.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "crypto",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "dropper",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      }
+    ]
+  },
+  "pagina4.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "keylogger",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "spyware",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "crypto",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "trojanized",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infected",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "dropper",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      }
+    ]
+  },
+  "pagina5.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infected",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "adware",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "ads",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "crypto",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "trojanized",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      }
+    ]
+  },
+  "pagina6.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "stealth",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infected",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "adware",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "ads",
+        "categoria": "Adware"
+      }
+    ]
+  },
+  "pagina7.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "trojanized",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rat",
+        "categoria": "Backdoor"
+      },
+      {
+        "classificacao": "rootkit",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "stealth",
+        "categoria": "Rootkit"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "adware",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "ads",
+        "categoria": "Adware"
+      }
+    ]
+  },
+  "pagina8.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "trojan",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "trojanized",
+        "categoria": "Trojan"
+      },
+      {
+        "classificacao": "virus",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "infection",
+        "categoria": "Virus"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "backdoor",
+        "categoria": "Backdoor"
+      }
+    ]
+  },
+  "pagina9.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "spyware",
+        "categoria": "Spyware"
+      },
+      {
+        "classificacao": "cve",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ads",
+        "categoria": "Adware"
+      },
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      },
+      {
+        "classificacao": "ransomware",
+        "categoria": "Ransomware"
+      }
+    ]
+  }
+}

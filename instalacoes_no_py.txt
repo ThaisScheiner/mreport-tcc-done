@@ -1,0 +1,27 @@
+alternativa para nao usar o ChromeDriver, ja que nao é mais compativel
+pip install webdriver-manager
+
+pip install selenium webdriver-manager nltk spacy
+
+python -m nltk.downloader punkt
+
+python -m spacy download en_core_web_sm
+
+python exportar_pdf.py
+
+pip install python_anticaptcha
+
+pip install -U selenium
+
+pip install beautifulsoup4
+
+pip install reportlab
+
+pip install fpdf2
+
+rodar o projeto 
+python run_all.py
+
+
+
+

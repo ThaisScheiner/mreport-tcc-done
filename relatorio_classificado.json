@@ -1,0 +1,13 @@
+{
+  "relatorios/links_malware_bing_ultimos_3_meses_completo.txt": {
+    "classificacoes": []
+  },
+  "relatorios/processado_links_malware_bing_ultimos_3_meses_completo.txt": {
+    "classificacoes": [
+      {
+        "classificacao": "exploit",
+        "categoria": "Exploit"
+      }
+    ]
+  }
+}

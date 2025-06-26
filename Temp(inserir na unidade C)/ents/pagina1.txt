@@ -1,0 +1,2 @@
+Actively Exploited,Apple on Wednesdayreleasedsecurity,macOS Sequoia,two,iPhone,CVE-2025-31200,CVE-2025,Apple,Google Threat Analysis Group,five,zero-days,the start of the year -
+,AI,first,2025

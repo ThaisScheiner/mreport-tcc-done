@@ -1,0 +1,39 @@
+TÍTULO: New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch
+
+CORPO DA NOTÍCIA:
+Google on Monday released out-of-band fixes to address three security issues in its Chrome browser, including one that it said has come under active exploitation in the wild.
+
+The high-severity flaw is being tracked asCVE-2025-5419(CVSS score: 8.8), and has been flagged as an out-of-bounds read and write vulnerability in the V8 JavaScript and WebAssembly engine.
+
+"Out-of-bounds read and write in V8 in Google Chrome prior to 137.0.7151.68 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page," reads thedescriptionof the bug on the NIST's National Vulnerability Database (NVD).
+
+Google credited Clement Lecigne and Benoît Sevens of Google Threat Analysis Group (TAG) with discovering and reporting the flaw on May 27, 2025. It also noted that the issue was addressed the next day by pushing out a configuration change to the Stable version of the browser across all platforms.
+
+As is customary, the advisory is light on details regarding the nature of the attacks leveraging the vulnerability or the identity of the threat actors perpetrating them. This is done so to ensure that a majority of users are updated with a fix and to prevent other bad actors from joining the exploitation bandwagon.
+
+"Google is aware that an exploit for CVE-2025-5419 exists in the wild," the tech giantacknowledged.
+
+CVE-2025-5419 is the second actively exploited zero-day to be patched by Google this year afterCVE-2025-2783(CVSS score: 8.3), which was identified by Kaspersky as being weaponized in attacks targeting organizations in Russia.
+
+Users are recommended to upgrade to Chrome version 137.0.7151.68/.69 for Windows and macOS, and version 137.0.7151.68 for Linux to safeguard against potential threats. Users of Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi are also advised to apply the fixes as and when they become available.
+
+Discover real-time defense tactics to detect and block deepfakes, fake domains, and multi-channel scams before they cause damage.
+
+We'll unpack how leading teams are using AI, privacy-first design, and seamless logins to earn user trust and stay ahead in 2025.
+
+Get the latest news, expert insights, exclusive resources, and strategies from industry leaders – all for free.
+
+=== Classificação do Malware ===
+- Exploit: exploit
+- Exploit: cve
+- Virus: virus
+- Virus: infected
+- Trojan: trojan
+- Adware: adware
+- Adware: ads
+- Backdoor: backdoor
+- Backdoor: rat
+- Ransomware: ransomware
+- Ransomware: crypto
+- Trojan: trojanized
+- Virus: infection

@@ -1,0 +1,2 @@
+Multi-Stage Malware Attack Uses,PowerShell,Tesla,XLoader
+,Remcos,XLoader,Palo Alto Networks Unit,42,Saqib Khanzadasaidin,7-zip,JavaScript,December 2024,Windows,RegAsm.exe,RegSvcs.exe,Khanzada,Kasperskydetaileda,Mongolia,Russia,MysterySnail,Chinese,at least 2017,Russian,October 2021,zero-day,CVE-2021-40449,Win32k,Microsoft Management Console,MMC,the National Land Agency,DLL,nearly 40,Kasperksy,only 13,AI,first,2025
